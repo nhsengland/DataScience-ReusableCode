@@ -5,19 +5,20 @@
 
 <body>
 
+
   <script>
     document.body.className = document.body.className
       ? document.body.className + " js-enabled"
       : "js-enabled";
   </script>
 
-  <div class="nhsuk-grid-row" style="margin-top: 0.5rem"></div>
-
   <div class="nhsuk-width-container">
     <main class="nhsuk-main-wrapper" id="maincontent" role="main">
       <div class="nhsuk-grid-row">
-        <div class="nhsuk-grid-column-full">
-
+        <div class="nhsuk-grid-column-one-quarter">
+          {% include sidenav.html %}
+        </div>
+        <div class="nhsuk-grid-column-three-quarters">
           <div class="nhsuk-warning-callout">
             <h3 class="nhsuk-warning-callout__label">
               <span role="text">
@@ -25,8 +26,7 @@
                 Disclaimer
               </span>
             </h3>
-            <p>This is not the official site but a store of technical documents and ongoing work. Opinions expressed in posts are not representative of the views of NHS England and any content here should <b>not</b> be 
-              regarded as official output. For more information about NHS England please visit our official <a style="color: #CF3587"
+            <p>This is not the official site but a set of signposts to our recent work. For more information about NHS England please visit our official <a style="color: #CF3587"
                 href="https://www.england.nhs.uk/">website</a></p>
           </div>
 
@@ -38,5 +38,7 @@
 
   {% include footer.html %}
 </body>
+
+<script src="https://cdn.jsdelivr.net/gh/MarketingPipeline/Markdown-Tag/markdown-tag-GitHub.js"></script>
 
 </html>

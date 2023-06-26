@@ -7,4 +7,3 @@ permalink:
 
 <h1>Welcome</h1>
 
-Some Text
