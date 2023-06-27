@@ -1,7 +1,7 @@
 ---
 layout: base 
-title: NHS Synth
-description: NHSSynth Repo
+title: MedicalMap
+description: Mapping tool to support placement of services
 permalink: GeoSpatial.html
 ---
 

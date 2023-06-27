@@ -1,7 +1,7 @@
 ---
 layout: base 
-title: NHS Synth
-description: NHSSynth Repo
+title: Structural Topic Modelling
+description: Structural Topic Modelling
 permalink: STM.html
 ---
 

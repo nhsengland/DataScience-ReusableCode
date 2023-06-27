@@ -1,7 +1,7 @@
 ---
 layout: base 
-title: NHS Synth
-description: NHSSynth Repo
+title: Forecasting
+description: Forecasting materials
 permalink: Forecasting.html
 ---
 

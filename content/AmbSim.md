@@ -1,7 +1,7 @@
 ---
 layout: base 
-title: NHS Synth
-description: NHSSynth Repo
+title: Ambulance-DES
+description: Descrete event simulation of ambulance services
 permalink: AmbSim.html
 ---
 
