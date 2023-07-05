@@ -9,4 +9,6 @@ DNAttend trains two models independently; a baseline logistic regression model a
 
 You can find the [code here](https://github.com/nhsx/dna-risk-predict/tree/main)
 
-<iframe src="https://github.com/nhsx/dna-risk-predict/tree/main" width="100%" height="600" frameborder="0" scrolling="yes"></iframe>
+RAP level: **Silver**
+
+<iframe src="https://nhsx.github.io/dna-risk-predict/" width="100%" height="600" frameborder="0" scrolling="yes"></iframe>

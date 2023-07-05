@@ -9,6 +9,8 @@ A mapping tool could support national and regional commissioning strategies by f
 
 Using open-source software and publicly accessible datasets we're able to show three pages here so far; The first, Multiple Shortest Routes, this can be used for staff routes to work. The second, Max Coverage Location, this can be used to score a site, e.g. a covid site or a new GP practice. Third, the Travelling Salesman Problem; in a health context this could be used to plan district nurse visits, or for ambulance drop-offs.
 
-You can find the [code here](https://github.com/nhs-pycom/MedicalMap)
+You can find the [code here](https://github.com/nhs-pycom/nhs_time_of_travel)
 
-<iframe src="https://nhsx.github.io/nhs_time_of_travel/" width="100%" height="600" frameborder="0" scrolling="yes"></iframe>
+RAP level: **Silver**
+
+<iframe src="https://nhs-pycom.github.io/nhs_time_of_travel/" width="100%" height="600" frameborder="0" scrolling="yes"></iframe>
