@@ -5,6 +5,8 @@ description: Descrete event simulation of ambulance services
 permalink: AmbSim.html
 ---
 
+# {{page.title}}
+
 A Discrete Event Simulation (DES) using [R-Simmer](https://r-simmer.org/) to investigate the ambulance job cycle times.   The code has been designed with reuse by analysts in an ambulance trusts in mind.  
 
 

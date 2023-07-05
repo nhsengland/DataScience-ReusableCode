@@ -5,6 +5,8 @@ description: Forecasting materials
 permalink: Forecasting.html
 ---
 
+# {{page.title}}
+
 Within this repo, there are several ways of going about Time Series Forecasting (TSF). When you come to look at a dataset, and the question is, how do I predict y from my existing data, quite often the area that's hardest is knowing where to begin, how to go about the forecasting, and what method is most appropriate, and which method will give you the best results.
 
 What this repo will do, is try and guide you through this forest, so you can see the wood for the trees. The repo will only cover numerical forecasting, so regression style forecasting, as opposed to classification (binary) forecasting.

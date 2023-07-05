@@ -5,6 +5,8 @@ description: NHSSynth Repo
 permalink: NHSSynth.html
 ---
 
+# {{page.title}}
+
 A Python package alongside research and investigative materials covering the effectiveness of the package and synthetic data more generally when applied to NHS use cases.  This work follows on from our initial explorations outlined in [SynthVAE](https://github.com/nhsx/SynthVAE).  
 
 You can find the [code here](https://github.com/nhsx/NHSSynth)
