@@ -1,8 +1,8 @@
 ---
 layout: base 
-title: Forecasting_1
+title: Forecasting - Introduction
 description: Forecasting materials
-permalink: Forecasting.html
+permalink: Forecasting1.html
 ---
 
 # {{page.title}}
@@ -17,9 +17,7 @@ What this repo will do, is try and guide you through this forest, so you can see
 
 You can find the [code here](https://github.com/nhsx/Forecasting) - Forecasting_1
 
-There is a second Forecasting repo availble with more advanced techniques and a deeper exploration into univariate forecasting, available here....
-
-You can find the [code here](https://github.com/nhsx/Time_Series_Forecasting_MS) - Forecasting_2
+A second repo on forecasting is also availble with more advanced techniques and a deeper exploration into <a href="/DataScience/ReusableCode/Forecasting2">Univariate Forecasting</a>.
 
 RAP level: **Baseline**
 
