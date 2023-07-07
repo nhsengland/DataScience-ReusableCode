@@ -15,7 +15,7 @@ Within this repo, there are several ways of going about Time Series Forecasting 
 
 What this repo will do, is try and guide you through this forest, so you can see the wood for the trees. The repo will only cover numerical forecasting, so regression style forecasting, as opposed to classification (binary) forecasting.
 
-You can find the [code here](https://github.com/nhsx/Forecasting) - Forecasting_1
+You can find the [code here](https://github.com/nhsx/Forecasting)
 
 A second repo on forecasting is also availble with more advanced techniques and a deeper exploration into <a href="/DataScience/ReusableCode/Forecasting2">Univariate Forecasting</a>.
 
