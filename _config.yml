@@ -1,6 +1,6 @@
 domain: nhsengland.github.io
 url: https://nhsengland.github.io
-baseurl: /DataScience/ReusableCode
+baseurl: /DataScience-ReusableCode
 repository: nhsengland/DataScience-ReusableCode
 title: Reusable Code
 description: Pointers to our code developed for reuse
