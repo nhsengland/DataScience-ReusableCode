@@ -2,7 +2,7 @@
 layout: base 
 title: MedicalMap
 description: Mapping tool to support placement of services
-permalink: GeoSpatial.html
+permalink: Geospatial.html
 ---
 
 # {{page.title}}
