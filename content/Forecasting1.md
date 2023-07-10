@@ -21,4 +21,6 @@ A second repo on forecasting is also availble with more advanced techniques and 
 
 RAP level: **Baseline**
 
+A view of the [Code documentation](https://nhsx.github.io/Forecasting/) can be seen in the iframe below.
+
 <iframe src="https://nhsx.github.io/Forecasting/" width="100%" height="600" frameborder="0" scrolling="yes"></iframe>

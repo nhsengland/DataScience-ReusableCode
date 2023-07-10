@@ -7,12 +7,15 @@ permalink: GeoSpatial.html
 
 # {{page.title}}
 
-A mapping tool could support national and regional commissioning strategies by facilitating the placement of new services and the reconfiguration of existing ones. It could also contribute to the NHS agenda for tackling health inequalities by enabling evidence-based decision-making by providing insight on how the availability of health and social care services is influenced by sociodemographic factors.
-
-Using open-source software and publicly accessible datasets we're able to show three pages here so far; The first, Multiple Shortest Routes, this can be used for staff routes to work. The second, Max Coverage Location, this can be used to score a site, e.g. a covid site or a new GP practice. Third, the Travelling Salesman Problem; in a health context this could be used to plan district nurse visits, or for ambulance drop-offs.
+A python codebase with a streamlit front end calculating and visualising:
+- Multiple Shortest Routes - fastest travel time when a choice of options is available; 
+- Max Coverage Location - to support decision making around geographical need for services; 
+- The Travelling Salesman Problem - planning and optimal route for multiple care visits.
 
 You can find the [code here](https://github.com/nhs-pycom/nhs_time_of_travel)
 
 RAP level: **Silver**
+
+A view of the [Code documentation](https://nhs-pycom.github.io/nhs_time_of_travel/) can be seen in the iframe below.
 
 <iframe src="https://nhs-pycom.github.io/nhs_time_of_travel/" width="100%" height="600" frameborder="0" scrolling="yes"></iframe>

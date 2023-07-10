@@ -13,4 +13,6 @@ You can find the [code here](https://github.com/nhsx/stm-survey-text)
 
 RAP level: **Silver**
 
-<iframe src="https://github.com/nhsx/stm-survey-text" width="100%" height="600" frameborder="0" scrolling="yes"></iframe>
+A view of the [Code documentation](https://nhsx.github.io/stm-survey-text/) can be seen in the iframe below.
+
+<iframe src="https://nhsx.github.io/stm-survey-text/" width="100%" height="600" frameborder="0" scrolling="yes"></iframe>

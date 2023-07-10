@@ -13,4 +13,6 @@ You can find the [code here](https://github.com/nhsx/NHSSynth)
 
 RAP level: **Gold**
 
+A view of the [Code documentation](https://nhsx.github.io/NHSSynth/modules/) can be seen in the iframe below.
+
 <iframe src="https://nhsx.github.io/NHSSynth/modules/" width="100%" height="600" frameborder="0" scrolling="yes"></iframe>
