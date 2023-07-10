@@ -7,7 +7,8 @@ permalink: Forecasting2.html
 
 # {{page.title}}
 
-This repo is a more advanced look into univariate forecasting.  
+This repo is a more advanced look into univariate forecasting. 
+ 
 The techniques used in this repo are ARIMA, SARIMAX and a look into Facebook's Prophet Forecasting model. 
 As there is a lot to understand before you can deploy a SARIMAX model, the repo will take you through the necessary data investigation steps, and explore the intricacies of the datastream, and the necessary knowledge steps before you can deploy a SARIMAX model. 
 
